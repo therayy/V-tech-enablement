@@ -1,15 +1,15 @@
 # Lab 01 - Install Vault
 Welcome to the first lab! 
-In this lab you will install the HashiCorp Vault program to your system. 
-Remember, in this course, I am demonstrating on a Debian Linux virtual machine. Let's go!
+In this lab you will install the IBM Vault program to your system. 
+Remember, in this course, I am demonstrating on a RHEL 9 virtual machine. Let's go!
 
 ## Update your system.
 If you do not have automatic updates running, then update your operating system before continuing with the installation.  
 
-For example, in Debian Linux you would either:
+For example, in RHEL Linux you would either:
 
 1. Go to Software > Updates and initiate the update, or:
-2. In the terminal, type `apt update && apt upgrade -y`
+2. In the terminal, type `dnf update && dnf upgrade -y`
 
 Restart the system when complete.
 
